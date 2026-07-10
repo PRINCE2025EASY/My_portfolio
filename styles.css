@@ -273,12 +273,6 @@ body.light-mode .toggle-thumb {
   border-color: var(--accent);
   color: var(--accent);
 }
-
-.social-disabled {
-  cursor: not-allowed;
-  opacity: 0.48;
-}
-
 .social-links svg,
 .hire-button svg {
   width: 21px;
@@ -582,7 +576,7 @@ body.light-mode .toggle-thumb {
 
 .submit-button {
   border: 0;
-  padding: 0 26px;
+  padding: 0 10px;
   cursor: pointer;
 }
 
